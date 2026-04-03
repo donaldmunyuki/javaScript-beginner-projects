@@ -25,7 +25,11 @@ A clean, responsive login and registration interface with smooth animations and 
 - **Location:** `Projects/Javascript Foldable Login form/`
 - **Technologies:** HTML5, CSS3, Vanilla JavaScript
 
-📖 [View Full Documentation](Projects/Javascript%20Foldable%20Login%20form/README.md)
+### 2. **Facebook Login Page**
+A clean, responsive facebook login and registration interface with smooth animations and client-side validation.
+
+- **Location:** `Projects/Facebook Login Page/`
+- **Technologies:** HTML5, CSS3, Vanilla JavaScript
 
 ---
 
